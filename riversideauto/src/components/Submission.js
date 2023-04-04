@@ -9,7 +9,7 @@ const Submission = ({setSubmit}) => {
 
         <div className="body">
          <div>
-             Thank you !
+             Thank you !!
          </div>
          <br/>
          <div>
