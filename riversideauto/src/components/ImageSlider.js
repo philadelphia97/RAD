@@ -1,10 +1,10 @@
 import { useState } from "react";
 import "./App.css"; 
-import one from "../radPictures/LAMBO.jpeg";
-import two from "../radPictures/LAMBOFED.jpeg";
-import three from "../radPictures/nissan1.jpg";
-import four from "../radPictures/nissan2.jpg";
-import five from "../radPictures/TEST1.jpg";
+import one from "../radPictures/IMG_2763.jpg";
+import two from "../radPictures/IMG_2771.jpg";
+import three from "../radPictures/IMG_2772.jpg";
+import four from "../radPictures/IMG_2774.jpg";
+import five from "../radPictures/IMG_2775.jpg";
 
 
 

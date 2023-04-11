@@ -43,7 +43,7 @@ return(
       width: "250px",
       height: "230px"
      }} 
-    src={five} alt='hello'>
+    src={five} alt='Riverside Auto Detailing Logo'>
     </img>
   </div>
   <a href="##" onClick={toggleClick} className="toggle-button">
@@ -66,7 +66,7 @@ return(
 
 
   
- 
+ <div className="page">
 <Routes>
   <Route path="/" 
          element={<Home />}
@@ -83,6 +83,7 @@ return(
   <Route path="*" 
          element={<NotFound />} />
 </Routes>
+</div>
 
 </div>
 
