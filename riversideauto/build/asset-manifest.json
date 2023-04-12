@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3468833.css",
+    "main.js": "/static/js/main.a8763a31.js",
+    "static/media/IMG_2763.jpg": "/static/media/IMG_2763.c95c0e3ccc950989a330.jpg",
+    "static/media/IMG_2772.jpg": "/static/media/IMG_2772.3369ace4a7e0cf50b7e8.jpg",
+    "static/media/IMG_2771.jpg": "/static/media/IMG_2771.9f2b7156b8ca95ea1e04.jpg",
+    "static/media/IMG_2774.jpg": "/static/media/IMG_2774.376e3d6b652c454d62cb.jpg",
+    "static/media/IMG_2775.jpg": "/static/media/IMG_2775.5e1b91db65adbc038b6a.jpg",
+    "static/media/RADLOGO.png": "/static/media/RADLOGO.644b888f373c3e39616f.png",
+    "index.html": "/index.html",
+    "main.e3468833.css.map": "/static/css/main.e3468833.css.map",
+    "main.a8763a31.js.map": "/static/js/main.a8763a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3468833.css",
+    "static/js/main.a8763a31.js"
+  ]
+}
