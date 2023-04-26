@@ -12,15 +12,17 @@ const App = () => {
 
   const [submit,setSubmit] = useState(false)
    console.log(`submit in parent is set to : ${submit}`)
-
-  
   
   function toggleClick(){
+    const navbarLinks = document.getElementsByClassName('navbar-links')[0]
     const change = navbarLinks.classList.toggle('active')
+    change()
     console.log("change", change)
   }
 
-  const navbarLinks = document.getElementsByClassName('navbar-links')[0]
+     
+
+  
 
 
  
